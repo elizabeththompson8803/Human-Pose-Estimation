@@ -7,18 +7,18 @@ It predicts single keypoints and explores how **model architecture affects spati
 ---
 
 ## Components
-- **Notebook** (`Notebooks/human_pose.ipynb`)  
+- **Notebook** [`Human Pose Estimation (1).ipynb`](Notebooks/Human%20Pose%20Estimation%20%281%29.ipynb) 
   - Implements `TinyCNN` and `ImprovedCNN`  
   - Generates synthetic keypoint data  
   - Visualizes predictions and computes pixel errors
 
-- **Slides** (`Slides/Human_Pose_Estimation.pptx`)  
+- **Slides** [`DAT494PPTXHumanPoseEstimation.pdf`](Slides/DAT494PPTXHumanPoseEstimation.pdf) 
   - Explains pose estimation concepts with visual examples
 
-- **Lecture Notes** (`Lecture_Notes/lecture_notes.pdf`)  
+- **Lecture Notes** [`DAT 494_ Final Project Lecture Notes.pdf`](Lecture_Notes/DAT%20494_%20Final%20Project%20Lecture%20Notes.pdf)  
   - Provides detailed explanations of model design, loss, and predictions
 
-- **Project Abstract**  
+- **Project Abstract**  [`Dat494_ Final Project Abstract.pdf`](Abstract/Dat494_%20Final%20Project%20Abstract.pdf) 
   - Summarizes goals, methodology, and educational objectives
 
 ---
